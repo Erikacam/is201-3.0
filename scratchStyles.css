@@ -1,0 +1,33 @@
+ol { 
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: whitesmoke;
+
+}
+.title {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+    background-color: whitesmoke;
+}
+body { 
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: whitesmoke;
+}
+
+li {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: whitesmoke;
+}
+ul {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: whitesmoke;
+    margin-left: 20px;
+}
